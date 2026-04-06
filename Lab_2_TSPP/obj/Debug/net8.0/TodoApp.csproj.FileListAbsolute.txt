@@ -1,0 +1,15 @@
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\bin\Debug\net8.0\TodoApp.exe
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\bin\Debug\net8.0\TodoApp.deps.json
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\bin\Debug\net8.0\TodoApp.runtimeconfig.json
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\bin\Debug\net8.0\TodoApp.dll
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\bin\Debug\net8.0\TodoApp.pdb
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.AssemblyInfoInputs.cache
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.AssemblyInfo.cs
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.sourcelink.json
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.dll
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\refint\TodoApp.dll
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.pdb
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\TodoApp.genruntimeconfig.cache
+C:\Users\F1\Desktop\проект\Lab_2_TSPP\obj\Debug\net8.0\ref\TodoApp.dll
